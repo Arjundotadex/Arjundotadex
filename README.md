@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Arjundotadex
+- 👀 I’m interested in Remote work
+- 🌱 I’m currently learning Web Development, Python, C, git
+- 💞️ I’m looking to collaborate on Open Source
+- 📫 How to reach me LinkedIN : https://www.linkedin.com/in/arjun-tyagi-00a389230
