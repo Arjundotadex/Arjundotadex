@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width: 20%; display: inline-block;" data-target="animated-image.originalImage">, I'm Arjun</h1>
-<h3 align="center">I am a tech enthusiast person, self learner, passion for innovation,  learning the importance of applying classical strategies to modern-day projects.</h3>
+<h3 align="center">I am a tech enthusiast person, a self-learner, and with a passion for innovation, and learned the importance of applying classical strategies to modern-day projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/44/30/50443067a22e6dd1ecc2d2e394d6e634.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjundotadex&label=Profile%20views&color=0e75b6&style=flat" alt="arjundotadex" /> </p>
