@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjundotadex&label=Profile%20views&color=0e75b6&style=flat" alt="arjundotadex" /> </p>
 
-<p align="left"> <a href="https://twitter.com/arjunstwth" target="blank"><img src="https://img.shields.io/twitter/follow/arjun55561333?logo=twitter&style=for-the-badge" alt="arjun55561333" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Arjunstwth" target="blank"><img src="https://img.shields.io/twitter/follow/Arjunstwth?logo=twitter&style=for-the-badge" alt="arjun55561333" /></a> </p>
 
 - 📫 How to reach me **arjunsinghtyagi2002@gmail.com**
 
