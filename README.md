@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arjun55561333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arjun55561333" height="30" width="40" /></a>
+<a href="https://twitter.com/Arjunstwth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Arjunstwth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arjun-tyagi-00a389230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-tyagi-00a389230" height="30" width="40" /></a>
 <a href="https://fb.com/dota.dex.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dota.dex.9" height="30" width="40" /></a>
 <a href="https://instagram.com/arjunsinghtyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjunsinghtyagi" height="30" width="40" /></a>
