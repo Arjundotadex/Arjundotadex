@@ -34,8 +34,9 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjundotadex&layout=compact&theme=dark" alt="Arjundotadex"/></p>
   </div>
-# 📈 Contribution Graph  
- [![Arjundotadex's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Arjundotadex&&theme=xcode)](https://github.com/Arjundotadex)
- </div>
-<p><img align="center" src="https://holopin.io/api/user/board?user=arjun" alt="arjundotadex" /></p>
+   </div>
 
+<p><img align="center" src="https://holopin.io/api/user/board?user=arjun" alt="arjundotadex" /></p>
+<!-- # 📈 Contribution Graph  
+ [[Arjundotadex's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Arjundotadex&&theme=xcode)](https://github.com/Arjundotadex)
+ -->
