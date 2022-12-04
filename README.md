@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
+![MasterHead](https://user-images.githubusercontent.com/103199408/205482302-24b3fefb-dee6-4a15-8a87-e96d32aa17bd.jpg)
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif"
         style="max-width: 20%; display: inline-block;" data-target="animated-image.originalImage">, I'm Arjun</h1>
 <h3 align="center">I am a Web Developer. I like bulding responsive and interactive websites. I advocate for Open Source.</h3>
