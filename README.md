@@ -1,8 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif"
         style="max-width: 20%; display: inline-block;" data-target="animated-image.originalImage">, I'm Arjun</h1>
-<h3 align="center">I am a tech-enthusiastic person, a self-learner with a passion for innovation, and am learning the
-    importance of applying classical strategies to modern-day projects.</h3>
+<h3 align="center">I am a Web Developer. I like bulding responsive and interactive websites. I advocate for Open Source.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif">
 
 <p align="left"> <img
