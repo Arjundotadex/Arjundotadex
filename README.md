@@ -15,7 +15,7 @@
 - 📫 How to reach me **arjunsinghtyagi2002@gmail.com**
 
 - 📄 Know about my experiences
-[https://arjundotadex.github.io/Personal-Website.gihub.io/]
+https://arjundotadex.github.io/Personal-Website.gihub.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
