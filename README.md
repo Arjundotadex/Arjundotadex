@@ -1,5 +1,5 @@
 ![Untitled-4](https://user-images.githubusercontent.com/103199408/208040118-2182b5a2-a502-4f1b-ad11-4495e4edfce6.png)
-<h3 align="center">I am a Web Developer. I like bulding responsive and interactive websites. I advocate for Open Source.</h3>
+<h3 align="center">· Follow me 🐦| I will help you with GitHub, web dev 🧑🏻‍💻 | Always interested in collaboration 🫱🏼‍🫲🏻 | Open source at its top 🌐</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif">
 
 <p align="left"> <img
