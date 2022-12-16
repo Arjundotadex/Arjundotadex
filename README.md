@@ -1,5 +1,4 @@
-![Untitled-1](https://user-images.githubusercontent.com/103199408/208039625-8b84b05a-3615-4870-bcf1-16737d27d037.png)
-
+![Untitled-4](https://user-images.githubusercontent.com/103199408/208040118-2182b5a2-a502-4f1b-ad11-4495e4edfce6.png)
 <h3 align="center">I am a Web Developer. I like bulding responsive and interactive websites. I advocate for Open Source.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif">
 
