@@ -1,6 +1,13 @@
 ![Untitled-4](https://user-images.githubusercontent.com/103199408/208040118-2182b5a2-a502-4f1b-ad11-4495e4edfce6.png)
 <h3 align="center">· Follow me 🐦| I will help you with GitHub, web dev 🧑🏻‍💻 | Always interested in collaboration 🫱🏼‍🫲🏻 | Open source at its top 🌐</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif">
+
+  <a href="https://api.daily.dev/get?r=Arjundotadex" target="_blank">
+    <img
+      width="256"
+      align="right"
+     src="https://api.daily.dev/devcards/9355c279984d4d06821fc2d1ea4cc607.png?r=q55" 
+    />
+  </a>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=arjundotadex&label=Profile%20views&color=0e75b6&style=flat"
