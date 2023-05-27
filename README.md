@@ -1,5 +1,5 @@
 ![Untitled-4](https://user-images.githubusercontent.com/103199408/208040118-2182b5a2-a502-4f1b-ad11-4495e4edfce6.png)
-<h3 align="center">· Follow me 🐦| I will help you with GitHub, web dev 🧑🏻‍💻 | Always interested in collaboration 🫱🏼‍🫲🏻 | Open source at its top 🌐</h3>
+<h3 align="center">I will help you with GitHub, Web Development & Open-Source contributions | Always interested in collaboration</h3>
 
   <a href="https://app.daily.dev/Arjundotadex">
     <img
